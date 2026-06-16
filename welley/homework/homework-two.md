@@ -1,4 +1,4 @@
-1. Create a file in your folder named homeworkTwo.ts 
+1. Create a file in your folder named homework-two.spec.ts 
 
 2. Copy the code from template.ts into your file
 
