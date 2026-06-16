@@ -1,3 +1,8 @@
+***Pre-req***
+
+Install Node.js if it's not already installed
+
+
 ***Run Project*** 
 
 Open a terminal and navigate to the main folder (i.e. cd Desktop/projects/juice-shop-welley.) 
@@ -9,7 +14,8 @@ Run `npm start`
 Browse to <http://localhost:3000> 
 
 
-***Prepare to run Tests*** /n
+***Prepare to run Tests*** 
+
 Open a new terminal window and navigate to the `welley` folder (i.e. cd Desktop/projects/juice-shop-welley/welley.)
 
 run ```npm i``` and then ```npm ci``` (first time only)
