@@ -6,14 +6,14 @@ test.describe(() => {
         await page.goto('localhost:3000/');
     });
 
-    test('your test name here', async ({ page }) => {
+    test('check xLocator is visible', async ({ page }) => {
         // your code here
         // await page.locator('your locator here').click(); 
 
         // await expect(page.locator('your locator here')).toBeVisible();
     });
 
-    test('your test name here 2', async ({ page }) => {
+    test('your test name here', async ({ page }) => {
         // your code here
     });
 
