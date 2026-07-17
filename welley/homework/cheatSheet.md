@@ -30,14 +30,14 @@ What to do when you have already pushed your branch to github (with or without c
 
 How to create a pull request after pushing your branch to github:
 
-- Go to the repository on github, you should see a green banner about your branch. Click the CTA button in the banner.
+- Go to the repository on github, you should see a banner about your branch. Click the CTA button in the banner.
 - delete any pre-generated description and click to create a pull request. 
 
 ALT:
 - go to the repository pull requests tab
 - click 'new pull request'
 - you will see 2 buttons, 'base: master' and 'compare: master', change compare from master to your branch. 
-- delete any pre-generated description and click to create a pull request. 
+- click to create a pull request. 
 
 ---
 Playwright Reference Guide

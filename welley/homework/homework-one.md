@@ -33,5 +33,5 @@ When you are finished, you'll need to save these changes and push them to github
 
 Next you need to open a PR on guthub
 
-- Go to the repository on github, you should see a green banner about your branch. Click the CTA button in the banner.
-- delete any pre-generated description and click to create a pull request. 
+- Go to the repository on github, you should see a banner about your branch. Click the CTA button in the banner.
+- click to create a pull request. 
